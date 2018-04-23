@@ -112,6 +112,7 @@ void heapSort(ItemType anArray[] , int n){
         
         heapSize --;
         // Decrease the size of the Heap region, expand the Sorted region
+        // 2018
     }
 }
         
